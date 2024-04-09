@@ -2,7 +2,7 @@
 <img src="https://github.com/Arsh2k01/UTrack/blob/main/UTrack.jpg" width="650" height="620"> 
  </p> 
 <br />
-Project under <a href = "https://github.com/caciitg">Consulting and Analytics Club, IITG</a>
+
 
 ## 1. Technologies Used
 
@@ -48,20 +48,8 @@ Deployment was done using Streamlit.
 To use UTrack, first add [this folder](https://tinyurl.com/utrackmodels) to your Google Drive.  <br />
 Then run **`Streamlit Deployment.ipynb`** on Google Colab. Click on the **ngrok** link produced by the .ipynb file. <br />
 
-Once you go to the localhost, use the following video as a reference:
-  
-  ![demo video](https://github.com/Arsh2k01/UTrack/blob/main/UTrack_Working.webp)
 
-
-## 5. Team
-* [Arsh Kandroo](https://github.com/Arsh2k01)
-* [Franchis Saikia](https://github.com/Francode007)
-* [Narmin Kauser](https://github.com/narmin24)
-* [Roshan Shaji](https://github.com/roshan-shaji)
-* [Jaswanth Gudiseva](https://github.com/jaswanth-gudiseva)
-* [Atharva Shrawge](https://github.com/haxer-max)
-
-## 6. References
+## 5. References
 * [Bidirectional Encoder Representations from Transformers (BERT): A sentiment analysis odyssey](https://arxiv.org/abs/2007.01127)
 * [Studying expressions of loneliness in individuals using twitter: an observational study](https://bmjopen.bmj.com/content/bmjopen/9/11/e030355.full.pdf)
 * [Understanding and Measuring Psychological Stress Using Social Media](https://static1.squarespace.com/static/53d29678e4b04e06965e9423/t/5ea0bea583b33b7bb006e140/1587592872890/2019UnderstandingStress.pdf)
